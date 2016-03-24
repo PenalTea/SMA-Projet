@@ -1,0 +1,3 @@
+[submodule "agent-tooling"]
+	path = agent-tooling
+	url = https://github.com/IRIT-SMAC/agent-tooling.git
